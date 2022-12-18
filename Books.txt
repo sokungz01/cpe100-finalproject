@@ -1,0 +1,11 @@
+10 
+test1 kiki 2000 A 0 0 
+Harry$Potter JK$Rowling 1999 A 2 2 PANURUT$SIRNAPAISAN B PANURUT$SIRNAPAISAN R 
+Physics$#3$For$Educational Department$of$Science 2003 B 1 1 PANURUT$SIRINAPAISAN B 
+Discrete$Mathematics Taweechai 2020 B 1 1 PATTARANUN$AYAPRASITPHOL B 
+test2 lol 1000 A 0 0 
+test3 hewkaw 1221 A 0 0 
+Kabigon Oam$Oxygen 2000 A 0 0 
+test4 Kabigon 2099 A 0 0 
+test6 Kabigon 2000 A 6 6 test6 B test6 R test6 B test6 R PANu B PANu R 
+Boom Kanteng 2000 A 0 0 
