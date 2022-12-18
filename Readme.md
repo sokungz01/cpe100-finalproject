@@ -54,7 +54,7 @@ typedef struct {
 ## Structure Diagram
 
 <p align="center">
-   <img style="width:500px;" src="diagram.png" alt="diagram"/>
+   <img style="width:1032px;" src="diagram.png" alt="diagram"/>
     Diagram
 </p>
 
